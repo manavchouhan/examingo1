@@ -1,0 +1,8 @@
+Question,Option 1,Option 2,Option 3,Option 4,Correct option,Marks
+"In linked list implementation of queue, if only front pointer is maintained, which of the following operation take worst case linear time?",Insertion,Deletion,static\p_photo\Practice.png,static\p_photo\math1.png,4,1
+"In linked list implementation of queue, if only front pointer is maintained, which of the following operation take worst case linear time?",Insertion,Deletion,To empty a queue,Both Insertion and To empty a queue,4,1
+"In linked list implementation of a queue, where does a new element be inserted?",At the head of link list,At the centre position in the link list,static\p_photo\math2.png,At any position in the linked list,3,2
+"In linked list implementation of a queue, front and rear pointers are tracked. Which of these pointers will change during an insertion into a NONEMPTY queue?",static\p_photo\math1.png,Only rear pointer,Both front and rear pointer,No pointer will be changed,2,2
+"In linked list implementation of a queue, front and rear pointers are tracked. Which of these pointers will change during an insertion into EMPTY queue?",static\p_photo\math3.png,Only rear pointer,static\p_photo\math2.png,No pointer will be changed,3,1
+"In linked list implementation of queue, if only front pointer is maintained, which of the following operation take worst case linear time?",Insertion,static\p_photo\bonus1.jpg,To empty a queue,static\p_photo\bonus2.jpg,4,1
+"In linked list implementation of queue, if only front pointer is maintained, which of the following operation take worst case linear time?",Insertion,static\p_photo\math.jpg,To empty a queue,static\p_photo\bonus2.jpg,4,1
